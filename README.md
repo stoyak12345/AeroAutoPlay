@@ -1,7 +1,7 @@
 # AeroAutoPlay
 AeroAutoPlay is a lightweight utility that brings back the classic, functional AutoPlay dialog from Windows 7 to modern Windows 10 and 11 systems. It replaces the simplified modern notification with a central, actionable window that gives you immediate control when connecting a USB drive, external hard drive, memory card, or DVD.
 
-Key Features:
+# Key Features:
 
 Classic Dialog Window: Get a clear, central pop-up dialog upon connecting any media, just like in Windows 7 and XP.
 
